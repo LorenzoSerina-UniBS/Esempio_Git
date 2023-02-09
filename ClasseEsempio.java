@@ -1,2 +1,5 @@
-public Class ClasseEsempio{
+public class ClasseEsempio{
+  public ClasseEsempio()
+  {
+  }
 }
