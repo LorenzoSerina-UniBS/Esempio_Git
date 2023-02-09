@@ -1,1 +1,1 @@
-Esempio di prova per git
+Esempio di prova per git. Modifica per verificare lo status
