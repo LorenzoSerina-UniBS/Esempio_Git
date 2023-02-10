@@ -1,0 +1,5 @@
+# Escludi tutti i file .ser
+*.ser
+
+# Escludi il file al percorso specificato
+C:\Users\NomeUtente\Documents\file.txt
